@@ -1,6 +1,7 @@
 {
     "name": "joao-applications-api",
     "main": "server.js",
+    "start": "npm install && node server.js",
     "dependencies": {
         "body-parser": "~1.0.1",
         "express": "~4.0.0",
